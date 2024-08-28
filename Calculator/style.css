@@ -68,3 +68,7 @@ form div .equal{
     background-color: #011936;
     color: #F4FFFD;
 }
+
+.operator:hover{
+    color: white;
+}
